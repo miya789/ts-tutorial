@@ -2,6 +2,7 @@
   "name": "ts-tutorial",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://miya789.github.io/ts-tutorial/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
